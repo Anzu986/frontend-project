@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://pindie-frontend134.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://pindie-backend134.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
